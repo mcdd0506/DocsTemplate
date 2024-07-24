@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Docs-Template</h1>
+<h1 align="center">DocsTemplate</h1>
 
 Docs 模板
 
@@ -31,27 +31,27 @@ TODO
 
 ## 贡献 🤝
 
-欢迎贡献！请随时提交拉取请求。有关详细信息，请参阅 [贡献指南](https://github.com/mcdd0506/Docs-Template/blob/main/CONTRIBUTING.md)。
+欢迎贡献！请随时提交拉取请求。有关详细信息，请参阅 [贡献指南](https://github.com/mcdd0506/DocsTemplate/blob/main/CONTRIBUTING.md)。
 
 这个项目的存在感谢所有贡献者：
 
-<a href="https://github.com/mcdd0506/Docs-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mcdd0506/Docs-Template" />
+<a href="https://github.com/mcdd0506/DocsTemplate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mcdd0506/DocsTemplate" />
 </a>
 
 ## 许可证 📄
 
 此项目根据 MIT 许可证授权 -
-有关详细信息，请参阅 [LICENSE](https://github.com/mcdd0506/Docs-Template/blob/main/LICENSE) 文件。
+有关详细信息，请参阅 [LICENSE](https://github.com/mcdd0506/DocsTemplate/blob/main/LICENSE) 文件。
 
 ## 支持 💖
 
-如果你觉得这个项目有帮助，请考虑在 [GitHub](https://github.com/mcdd0506/Docs-Template) 上给它一个 ⭐️！
+如果你觉得这个项目有帮助，请考虑在 [GitHub](https://github.com/mcdd0506/DocsTemplate) 上给它一个 ⭐️！
 
 ## Star 历史 ⭐
 
 <div align="center">
 
-<img src="https://api.star-history.com/svg?repos=mcdd0506/Docs-Template&type=Date" width="600" height="400" alt="Star History Chart" valign="middle">
+<img src="https://api.star-history.com/svg?repos=mcdd0506/DocsTemplate&type=Date" width="600" height="400" alt="Star History Chart" valign="middle">
 
 </div>
