@@ -19,7 +19,14 @@ Docs 模板
 
 ## 安装 📦
 
-TODO
+```shell
+docker pull ghcr.io/mcdd0506/docs-template:1.0.0
+docker run -itd --name docs-docs -p 80:80 docs-template:1.0.0
+```
+
+>[!NOTE]
+> 版本号参见：https://github.com/mcdd0506/DocsTemplate/pkgs/container/docs-template
+
 
 ## 配置 🛠
 
@@ -27,7 +34,8 @@ TODO
 
 ## 更新日志 📅
 
-TODO
+Here : https://github.com/mcdd0506/DocsTemplate/blob/main/docs/CHANGELOG.md
+
 
 ## 贡献 🤝
 
