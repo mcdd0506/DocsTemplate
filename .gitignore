@@ -1,3 +1,15 @@
+# Dev
+node_modules
+.DS_Store
+dist-ssr
+cache
+*.local
+
+.idea
+*.iml
+
+
+
 # Logs
 logs
 *.log
@@ -102,7 +114,6 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
